@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ### I'm currently learning python
 
+![](https://komarev.com/ghpvc/?username=Starry-Trace-Sky&color=blueviolet&style=for-the-badge)
+
 [![星痕Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starry-Trace-Sky&count_private=true&show_icons=true&theme=tokyonight)](https://starrytracesky.vercel.app)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starry-Trace-Sky&layout=compact)](https://starrytracesky.vercel.app)
