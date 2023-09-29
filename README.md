@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+(About me)[https://starrytracesky.vercel.app]
+
+### I'm currently learning python
+
+[![星痕Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starry-Trace-Sky&count_private=true&show_icons=true&theme=radical)](https://starrytracesky.vercel.app)
