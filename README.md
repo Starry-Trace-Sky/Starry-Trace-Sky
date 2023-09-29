@@ -13,14 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## [About me](https://starrytracesky.vercel.app)
+![](cover.png)
 
-### Hi there 👋
+## [About me](https://starrytracesky.vercel.app/about)
 
-### I'm currently learning python
+### Welcome to visit my profile 👋
+
+### I'm currently preparing for gaokao(˃ ⌑ ˂ഃ )
 
 ![](https://komarev.com/ghpvc/?username=Starry-Trace-Sky&color=blueviolet&style=for-the-badge)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starry-Trace-Sky&layout=compact)](https://starrytracesky.vercel.app)
+
 [![星痕Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starry-Trace-Sky&count_private=true&show_icons=true&theme=tokyonight)](https://starrytracesky.vercel.app)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starry-Trace-Sky&layout=compact)](https://starrytracesky.vercel.app)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Starry-Trace-Sky&theme=tokyonight)](https://git.io/streak-stats)
