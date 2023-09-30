@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![](cover.png)
 
+# 一旦眼神变得黯淡，灵魂也会失去光辉
+
 ## [About me](https://starrytracesky.vercel.app/about)
 
 ### Welcome to visit my profile 👋
