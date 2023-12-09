@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](cover.png)
+![](cover.jpeg)
 
 # 一旦眼神变得黯淡，灵魂也会失去光辉
 
